@@ -1,4 +1,4 @@
 print("Hello World")
 x = "hello fahad"
-
-print(x)
+y = " and hello Alex"
+print(f'{x} {y}')
